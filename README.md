@@ -1,4 +1,4 @@
-# Ender3 4.2.2 BLTouch
+# Ender3 4.2.2 BLTouch Firmware
 Marlin Firmware for Ender 3 (the original ender 3) with 4.2.2 board and BL TOUCH
 This firmware uses marlin bugfix 2.1.x
 
